@@ -81,7 +81,7 @@ function Projects() {
             <ProjectCard
               imgPath={udemy}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
+              title="Udemy like"
               description="A project similar to Udemy where users can purchase training from experts in their field."
               ghLink="https://github.com/baranboga/React.js--e-commerce-project"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
