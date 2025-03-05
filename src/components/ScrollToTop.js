@@ -7,6 +7,7 @@ function ScrollToTop() {
   useEffect(() => {
     window.scrollTo(0, 0);
     ReactGA.pageview(pathname); // Track page views
+    console.log("pathname", pathname);
   }, [pathname]);
   return null;
 }
