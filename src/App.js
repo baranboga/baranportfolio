@@ -16,15 +16,17 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ReactGA from "react-ga";
+import ReactGA from "react-ga4";
 
 const TRACKING_ID = "G-D6QL9L7MH4";
-ReactGA.initialize(TRACKING_ID);
 
 function App() {
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
+    // Initialize Google Analytics
+    ReactGA.initialize(TRACKING_ID);
+
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
