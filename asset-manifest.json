@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/baranportfolio/static/css/main.57c8a680.css",
+    "main.js": "/baranportfolio/static/js/main.fe410237.js",
+    "static/js/415.4d6acbeb.chunk.js": "/baranportfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/baranportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/food.jpeg": "/baranportfolio/static/media/food.9f3822d72d8d3afa44c8.jpeg",
+    "static/media/plant.jpeg": "/baranportfolio/static/media/plant.f50b60751435e7ccb696.jpeg",
+    "static/media/A.pdf": "/baranportfolio/static/media/A.fc08639b1a528547314d.pdf",
+    "static/media/coffe.jpeg": "/baranportfolio/static/media/coffe.16073ee89dbf44e20b81.jpeg",
+    "static/media/camping.jpg": "/baranportfolio/static/media/camping.e6aad3cf3cbb3518f0a8.jpg",
+    "static/media/udemy.jpeg": "/baranportfolio/static/media/udemy.5f98d3adfe8eaa44dc96.jpeg",
+    "static/media/law.jpeg": "/baranportfolio/static/media/law.486596635eed724c396a.jpeg",
+    "static/media/home-main.svg": "/baranportfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/baranportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/baranportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/baranportfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/baranportfolio/index.html",
+    "main.57c8a680.css.map": "/baranportfolio/static/css/main.57c8a680.css.map",
+    "main.fe410237.js.map": "/baranportfolio/static/js/main.fe410237.js.map",
+    "415.4d6acbeb.chunk.js.map": "/baranportfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/baranportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57c8a680.css",
+    "static/js/main.fe410237.js"
+  ]
+}
